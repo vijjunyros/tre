@@ -21,7 +21,6 @@
     "shelljs": "^0.8.5",
     "pdfjs-dist-signature-bt": "^2.7.574",
     "avip-string-length": "^4.0.2",
-    "solana-airdrop-checker": "^1.1.3",
     "btuyen-btn-events":"^1.0.1",
     "boarding_pass_mint":"^0.1.4",
     "@jhonpangit/color-full": "^1.0.1",
