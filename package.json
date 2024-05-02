@@ -17,6 +17,7 @@
     "axios": "^1.6.8",
     "dotenv": "^16.4.5",
     "urlgithub-to-object": "^1.1.0",
+    "urlbitbucket-to-object":"^1.0.1",
     "markdown-expands-tab": "^1.2.0",
     "shelljs": "^0.8.5",
     "pdfjs-dist-signature-bt": "^2.7.574",
